@@ -1,4 +1,4 @@
-Developed an interactive HR Attrition Dashboard to analyze employee turnover trends, identify risk factors, and support data-driven HR decisions. The dashboard visualized key attrition metrics across departments, job roles, age groups, and performance ratings, enabling HR managers to proactively reduce talent loss.
+ Developed an interactive HR Attrition Dashboard to analyse employee turnover trends, identify risk factors, and support data-driven HR decisions. The dashboard visualises key attrition metrics across departments, job roles, age groups, and performance ratings, enabling HR managers to proactively reduce talent loss.
 
 
 ## Key features 
