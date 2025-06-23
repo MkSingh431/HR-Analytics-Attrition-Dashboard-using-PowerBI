@@ -40,3 +40,4 @@ Insert gif or link to demo
 
 ## Outcome:
 - The dashboard helped HR leaders identify key factors contributing to attrition, allowing them to take proactive retention measures. It improved HR's strategic decision-making and reduced manual reporting efforts.
+follow me
